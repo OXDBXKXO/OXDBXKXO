@@ -7,6 +7,5 @@
 ```
 
 
-- 🔭 I’m currently working on various projects that I will probably never finish
-- 🌱 I’m currently learning offensive Go
-- 📫 How to reach me: https://mailhide.io/e/kmVk4gkO
+- 🔭 ~~I’m currently working on various projects that I will probably never finish~~ Update : Claude Code now exists
+- 🌱 I’m currently having fun building a homelab
